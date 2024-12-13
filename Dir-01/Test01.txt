@@ -1,5 +1,5 @@
 @echo off
-echo 正在清除系統垃圾檔案中，請稍候......
+echo 清除系統垃圾檔案中，稍候......
 echo Angus福利社 http://wuangus.cc
 del /f /s /q %systemdrive%\*.tmp
 del /f /s /q %systemdrive%\*._mp
